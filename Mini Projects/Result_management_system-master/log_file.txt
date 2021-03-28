@@ -1,0 +1,18 @@
+[ INFO ] : Login type selected - 1 
+[ INFO ] : Teachers uname : dipali 
+[ INFO ] : Verify user dipali 
+[ INFO ] : dipali : password matched 
+[ INFO ] : Choice type selected - 1 
+[ INFO ] : student data : 2,Nikita Agrawal,99,66,83,74.40
+ 
+[ INFO ] : ['2', 'Nikita Agrawal', '99', '66', '83', '74.40\n'] 
+[ INFO ] : Get Rank for percentage : 74.40 
+[ INFO ] : ['74.40', '69.30'] 
+[ INFO ] : Choice type selected - 2 
+[ INFO ] : Choice type selected - 3 
+[ INFO ] : Choice type selected - 1 
+[ INFO ] : student data : 4,Shivani Pande,67,98,78,72.90
+ 
+[ INFO ] : ['4', 'Shivani Pande', '67', '98', '78', '72.90\n'] 
+[ INFO ] : Get Rank for percentage : 72.90 
+[ INFO ] : ['74.40', '72.90', '69.30'] 

@@ -1,0 +1,4 @@
+1,Aditya Mehta,88,77,66,69.30
+2,Nikita Agrawal,99,66,83,74.40
+3,Shweta Bhokre,66,77,88,69.30
+4,Shivani Pande,67,98,78,72.90
