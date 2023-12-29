@@ -4,6 +4,7 @@
 
 1. **Visit the Python Website:**
    - Go to the official Python website: [Python Downloads](https://www.python.org/downloads/).
+   ![Download](download.png)
 
 2. **Download Python:**
    - Click on the "Downloads" tab.
