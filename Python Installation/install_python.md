@@ -4,18 +4,23 @@
 
 1. **Visit the Python Website:**
    - Go to the official Python website: [Python Downloads](https://www.python.org/downloads/).
-   ![Download](download.png)
 
 2. **Download Python:**
    - Click on the "Downloads" tab.
+   ![Download](download.png)
    - Choose the version of Python you want and click on the "Download Python X.X.X" button.
+   ![Download](version.png)
+   ![Download](installer.png)
 
 3. **Run the Installer:**
    - Once the installer is downloaded (e.g., `python-3.X.X.exe`), double-click on it.
+   ![Download](exe_file.png)
    - Check the box that says "Add Python X.X to PATH" during installation (this is important for easy command line access).
+   ![Download](install.png)
 
 4. **Install Python:**
    - Click "Install Now" to start the installation process.
+   ![Download](install_now.png)
    - The installer will copy the necessary files and set up Python on your system.
 
 5. **Verify Installation:**
@@ -44,6 +49,7 @@
 1. **Download Anaconda:**
    - Go to the Anaconda website: [Anaconda Distribution](https://www.anaconda.com/products/distribution).
    - Download the Anaconda installer for Windows.
+   ![Download](anaconda.png)
 
 2. **Run the Installer:**
    - Double-click on the downloaded installer (e.g., `Anaconda3-X.X.X-Windows-x86_64.exe`).
